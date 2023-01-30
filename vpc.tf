@@ -5,6 +5,7 @@ provider "aws" {
 }
 
 
+
 # VPC
 
 resource "aws_vpc" "MyVPC" {
